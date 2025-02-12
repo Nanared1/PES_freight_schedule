@@ -1,0 +1,27 @@
+# Project Name
+PES Freight Scheduling 
+
+## Description
+take home test for Carbon 5
+
+## Scripts
+
+- `start`: Runs the compiled server code using Node.js.
+    ```sh
+    npm run start
+    ```
+
+- `dev`: Runs the server in development mode using `nodemon` and `ts-node`. It watches for changes in TypeScript files and restarts the server automatically.
+    ```sh
+    npm run dev
+    ```
+
+- `build`: Compiles the TypeScript code to JavaScript using the TypeScript compiler (`tsc`).
+    ```sh
+    npm run build
+    ```
+
+- `test`: Runs the tests using Jest with the configuration specified in `jest.config.ts`.
+    ```sh
+    npm run test
+    ```
